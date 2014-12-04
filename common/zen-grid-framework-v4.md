@@ -1,0 +1,1 @@
+This is the first of our themes to use the Zen Grid Framework v4. You can see the documentation for Zen Grid Framework v4 on the <a href="/zen-grid-framework-4/">ZGFv4 dedicated knowledgebase</a>.
