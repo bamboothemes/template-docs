@@ -3,7 +3,7 @@ How to add your own logo
 
 Zen grid Framework v4 (ZGFv4) themes use a custom html module position for all content related to the template logo. While the template controls the font, color and other display characteristics of the logo. Your logo can be any combination of text, image or any other html markup. 
 
-Create your logo content
+Add your logo content
 ----
 
 ### 1. Create a custom html module and publish it to the logo position.
