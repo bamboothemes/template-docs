@@ -1,10 +1,7 @@
 Adding a hidden panel
 ----
 
-Zen Grid Framework v4 (ZGF4) based themes also include a useful hidden panel for displaying content in a floating panel above the page.
-
-
-The panel trigger is automatically displayed on the page when any module is published to the panel position. After clicking the panel trigger, a floating panel appears above the page displaying your panel content.
+Zen Grid Framework v4 (ZGF4) based themes also include a useful hidden panel for displaying content in a floating panel above the page. The panel trigger is automatically displayed on the page when any module is published to the panel position. After clicking the panel trigger, a floating panel appears above the page displaying your panel content.
 
 
 ![Hidden Panel](../data/images/panel/hiddenpanel.jpg)
