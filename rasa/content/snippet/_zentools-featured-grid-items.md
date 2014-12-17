@@ -1,0 +1,1 @@
+The grid of news items on the front page is an instance of the zentools module using a grid layout.

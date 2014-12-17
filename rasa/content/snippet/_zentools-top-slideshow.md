@@ -1,0 +1,1 @@
+The rotating banner of text int he top right of the page is an instance of the zentools module using a slideshow layout published to the header position.

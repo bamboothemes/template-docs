@@ -1,0 +1,1 @@
+The main slideshow on the front page is an instance of the zentools module using a slideshow layout published to the abovecontent position.

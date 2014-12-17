@@ -1,0 +1,1 @@
+An instance of the Hikashop cart module is published to the top1 position for most pages of this template. The cart is published using minicart mode which means that a very basic cart is displayed for this position.
