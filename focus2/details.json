@@ -1,0 +1,22 @@
+{	
+	"theme":"focus2",
+	"date":"jan15",
+	"description":"Focus 2 is the second incarnation of the original Focus theme. It features a built in responsive slideshow that scales and morphs your images so that they fit in the browser window beautifully. The slideshow features thumbnail resizing, a download image button, slideshow duration and speed options, thumbnail navigation and more. It's a flexible focussed theme for showcasing your work.",
+	"info":"Here is something a bit longer",
+	"framework":"zen-grid-framework-v4",
+	"requirements":"Joomla 3+",
+	"other": 
+		{
+			"1": "adding-a-hiddenpanel",
+			"2": "controlling-the-maincontent-area",
+			"3": "adding-your-logo",
+			"4": "module-classes"
+		},
+	"extensions": 
+		{
+			"1":"zentools",
+			"2": "jbmaps2",
+			"3": "zenshortcodes",
+			"4": "zenmenu"
+		}	
+}
