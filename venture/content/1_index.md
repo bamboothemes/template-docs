@@ -4,7 +4,7 @@ Venture
 
 Leap into your next project with the stunning magazine / news /business Joomla template called Venture. It's a blazingly fast responsive template that is the ideal partner for your next venture.
 
-[Features](http://www.joomlabamboo.com/joomla-templates/venture) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=venture) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&layout=list&Itemid=216)
+[Features](http://www.joomlabamboo.com/joomla-templates/venture) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=venture) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=681&Itemid=215)
 
 Theme Requirements
 ----
