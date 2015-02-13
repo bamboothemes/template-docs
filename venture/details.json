@@ -1,0 +1,23 @@
+{	
+	"theme":"venture",
+	"date":"feb15",
+	"description":"Leap into your next project with the stunning magazine / news /business Joomla template called Venture. It's a blazingly fast responsive template that is the ideal partner for your next venture.",
+	"info":"Here is something a bit longer",
+	"framework":"zen-grid-framework-v4",
+	"requirements":"Joomla 3+",
+	"other": 
+		{
+			"1": "adding-a-hiddenpanel",
+			"2": "controlling-the-maincontent-area",
+			"3": "adding-your-logo",
+			"4": "module-classes"
+		},
+	"extensions": 
+		{
+			"1":"zentools",
+			"2": "jbmaps2",
+			"3": "zenshortcodes",
+			"4": "zenmenu",
+			"5": "skillset"
+		}	
+}
