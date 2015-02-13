@@ -3,6 +3,10 @@ Row Styles.
 
 Row styles allow the user to specify a custom style to be applied to an entire row of modules. This makes it possible to easily spread the main background colour to fill the entire width of the page or apply a specific style to a group of modules in a single row.
 
+The example below can be seen on the Venture one page demo site where the grid1 row uses the primary1 option, the grid2 row uses the white option and the grid3 row uses the secondary3 option.
+![01 Example](http://localhost:8888/builder/joomla-template/data/venture/images/row-styles/row-style-example.jpg);
+
+
 Applying a style to a row
 ---
 The options for determining the style to be applied to a specific row can be found under the Theme panel in the template settings. To apply a style to a specific row simply select the style you want to apply to the relevant row of modules.
