@@ -8,7 +8,7 @@ This is a custom html module with the following text.
 
 	{zen-phone}Call Me - +61 0411 266 722{/zen-phone}
 
-The module is called Top Phone number and is published to the top1 position int he quickstart package.
+The module is called Top Phone number and is published to the top1 position in the quickstart package.
 
 Social icons in left toolbar
 ---
@@ -29,7 +29,7 @@ A custom html module is published to the logo position. The logo is given a widt
 		<li style="text-align: center;"></li>
 	</ul>
 	<h1 style="text-align: center;">VENTURE</h1>
-	<p style="text-align: center;">A classic business oriented Joomla design ...</p>
+	<p style="text-align: center;">A classic business oriented Joomla design ...</p>
 	
 
 Experiment beyond boundaries and open insight 
@@ -38,7 +38,7 @@ This text is a custom html module published to the banner position. The banner p
 
 The html used for this module is:
 	
-	<h2 style="text-align: left;">{zen-circle-o-notch}<span style="line-height: 1.42857143;">{/zen-circle-o-notch}Experiment beyond boundaries and open insight</span><span style="line-height: 1.42857143;"> ...          </span><a class="btn-mini btn btn-primary" href="#">Today</a></h2>
+	<h2 style="text-align: left;">{zen-circle-o-notch}<span style="line-height: 1.42857143;">{/zen-circle-o-notch}Experiment beyond boundaries and open insight</span><span style="line-height: 1.42857143;">...</span><a class="btn-mini btn btn-primary" href="#">Today</a></h2>
 
 Background slideshow
 ---

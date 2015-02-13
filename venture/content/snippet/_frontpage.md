@@ -4,7 +4,7 @@ This is a custom html module with the following text.
 
 	{zen-phone}Call Me - +61 0411 266 722{/zen-phone}
 
-The module is called Top Phone number and is published to the top1 position int he quickstart package.
+The module is called Top Phone number and is published to the top1 position in the quickstart package.
 
 Social icons in left toolbar
 ---
