@@ -1,6 +1,6 @@
 Ecolife Front Page setup
 ====
-![ecolife Front page setup](http://localhost:8888/builder/joomla-template/data/ecolife/images/frontpage/ecolife-frontpage.jpg 'ecolife Frontpage setup')
+![ecolife Front page setup](../data/ecolife/images/frontpage/ecolife-frontpage.jpg 'ecolife Frontpage setup')
 
 More button in top right
 ---
