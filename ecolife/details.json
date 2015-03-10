@@ -1,0 +1,24 @@
+{	
+	"theme":"ecolife",
+	"date":"mar15",
+	"description":"Breathe new life into your Joomla website with an edgy and elegant, grunge inspired business Joomla template. Ecolife is fast, flexible and a little bit dirty.",
+	"info":"Here is something a bit longer",
+	"framework":"zen-grid-framework-v4",
+	"requirements":"Joomla 3+",
+	"forum":"http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=682&Itemid=215",
+	"other": 
+		{
+			"1": "adding-a-hiddenpanel",
+			"2": "controlling-the-maincontent-area",
+			"3": "adding-your-logo",
+			"4": "module-classes",
+			"5": "row-styles"
+		},
+	"extensions": 
+		{
+			"1":"zentools",
+			"2": "jbmaps2",
+			"3": "zenshortcodes",
+			"4": "zenmenu"
+		}	
+}

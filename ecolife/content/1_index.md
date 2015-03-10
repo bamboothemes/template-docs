@@ -1,10 +1,10 @@
-Xero
+Ecolife
 ====
-![Alt text](http://www.joomlabamboo.com/images/new/xero/xero-responsive.jpg 'Optional title')
+![Alt text](http://www.joomlabamboo.com/images/new/ecolife/ecolife-responsive.jpg 'Optional title')
 
-Xero heralds a new era in Joomla template design. It's a focussed feature rich and fast Joomla template that scores very high scores in google page speed and ySlow test - right out of the box.
+Breathe new life into your Joomla website with an edgy and elegant, grunge inspired business Joomla template. Ecolife is fast, flexible and a little bit dirty.
 
-[Features](http://www.joomlabamboo.com/joomla-templates/xero) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=xero) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=677&Itemid=215)
+[Features](http://www.joomlabamboo.com/joomla-templates/ecolife) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=ecolife) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=682&Itemid=215)
 
 Theme Requirements
 ----

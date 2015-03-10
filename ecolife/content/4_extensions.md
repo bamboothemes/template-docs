@@ -1,7 +1,7 @@
 Extensions used on the demo site.
 ====
 
-The following extensions are featured on the xero demo site.
+The following extensions are featured on the ecolife demo site.
 
 Zentools
 ----

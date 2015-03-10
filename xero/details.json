@@ -5,6 +5,7 @@
 	"info":"Here is something a bit longer",
 	"framework":"zen-grid-framework-v4",
 	"requirements":"Joomla 3+",
+	"forum":"http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=677&Itemid=215",
 	"other": 
 		{
 			"1": "adding-a-hiddenpanel",

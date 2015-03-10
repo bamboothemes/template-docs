@@ -4,7 +4,7 @@ Rasa2
 
 Rasa2 is a clean and minimal magazine and ecommerce template. Rasa2 extends the original Rasa template that was released back in August 2011 and brings it into the responsive new world with a plethora of cutting edge design and performance features. Rasa2 is built on our brand new Joomla3 template framework which offers fast performance right out of the box, flexible theming tools, extensive responsive features, dynamic and intuitive interface and more.
 
-[Features](http://www.joomlabamboo.com/joomla-templates/Rasa2) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=Rasa2) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&layout=list&Itemid=216)
+[Features](http://www.joomlabamboo.com/joomla-templates/Rasa2) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=Rasa2) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=678&Itemid=215)
 
 Theme Requirements
 ----

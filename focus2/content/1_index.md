@@ -4,7 +4,7 @@ Focus2
 
 Focus 2 is the second incarnation of the original Focus theme. It features a built in responsive slideshow that scales and morphs your images so that they fit in the browser window beautifully. The slideshow features thumbnail resizing, a download image button, slideshow duration and speed options, thumbnail navigation and more. It's a flexible focussed theme for showcasing your work.
 
-[Features](http://www.joomlabamboo.com/joomla-templates/focus2) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=focus2) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&layout=list&Itemid=216)
+[Features](http://www.joomlabamboo.com/joomla-templates/focus2) / [Download](http://www.joomlabamboo.com/downloads/template-downloads?param=focus2) / [Support Forum](http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=682&Itemid=215)
 
 Theme Requirements
 ----
