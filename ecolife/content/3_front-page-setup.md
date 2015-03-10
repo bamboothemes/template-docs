@@ -64,7 +64,7 @@ This is an instance of the Zentools module. The settings for the module can be f
 
 Map
 ---
-This is an instance of the JB Maps2 module. The module is able to spam the width of the page using the fiull width row style. This row style can be applied in the template's theme panel settings.
+This is an instance of the JB Maps2 module. The module is able to span the width of the page using the full width row style. This row style can be applied in the template's theme panel settings.
 
 Important Questions
 ---
