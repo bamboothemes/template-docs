@@ -18,12 +18,12 @@ A custom html module is published to the logo position. The logo is given a widt
 
 Search module
 ---
-This is a standard Joomla search module published ot the search position. It has the button for the search form positioned to the right.
+This is a standard Joomla search module published to the search position. It has the button for the search form positioned to the right.
 
 
 Main Menu
 ---
-This is a core Joomla menu module published ot the menu position.
+This is a core Joomla menu module published to the menu position.
 
 Featured, Placing regulation, natural climbs
 ---
@@ -38,7 +38,7 @@ The settings for the slideshow here can be found under the Featured Slideshow do
 
 A streamlined approach to Joomla templating
 ----
-This is a custom html module published ot the banner position.
+This is a custom html module published to the banner position.
 
 Powerfully responsive
 ----

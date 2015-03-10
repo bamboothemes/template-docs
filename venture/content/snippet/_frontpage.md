@@ -48,7 +48,7 @@ The template provides control over the slideshow duration and the time it take t
 
 Featured, Get to know us Find Us
 ---
-The content displayed here comes from 3 different modules all published to the tabs position. Any module published ot the tabs position is displayed in a tabbed layout.
+The content displayed here comes from 3 different modules all published to the tabs position. Any module published to the tabs position is displayed in a tabbed layout.
 
 Featured
 ----

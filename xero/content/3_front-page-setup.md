@@ -5,7 +5,7 @@ Xero Front Page setup
 - The top right menu is a core Joomla menu module published to the top4 position
 - The logo is published to the logo position. It is using the Droid serif font.
 - The search box is a core Joomla search module and is published to the search positions.
-- The text "A streamlined approach ..." is a custom html module published ot the banner position.
+- The text "A streamlined approach ..." is a custom html module published to the banner position.
 - The laptop image is a custom html module published to the grid1 position
 - The text "Powerful responsive ..." is a custom html module published to grid5.
 - The text "A light footprint ..." is a custom html module published to grid6.

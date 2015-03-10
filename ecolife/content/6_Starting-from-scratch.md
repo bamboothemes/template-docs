@@ -16,7 +16,7 @@ Elements to publish / Unpublish
 ----
 1. Set the Ecolife template as the default template in the template manager.
 2. Edit the Ecolife template and save settings to update the current configuration.
-3. You may need to set the option int he layotu panel to show content on the front page.
+3. You may need to set the option in the layout panel to show content on the front page.
 4. Publish the zenmenu plugin via the plugin manager
 5. Publish the Zen Shortcode plugin via the extensions manager.
 
@@ -26,7 +26,7 @@ Change the position for the following items and adjust some settings
 1. Change the main menu module position to menu.
 2. Disable the menu module title.
 3. Set it to display on all pages.
-4. Set the search module to be published ot the search position.
+4. Set the search module to be published to the search position.
 
 Elements to create
 ----
