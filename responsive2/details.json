@@ -1,0 +1,24 @@
+{	
+	"theme":"responsive2",
+	"date":"apr15",
+	"description":"A super fast, lightweight and minimal Joomla template for your next Joomla project. Put your stamp on our new responsive starter theme and let your imagination run wild with the potential.  ",
+	"info":"Here is something a bit longer",
+	"framework":"zen-grid-framework-v4",
+	"requirements":"Joomla 3+",
+	"forum":"http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=677&Itemid=215",
+	"other": 
+		{
+			"1": "adding-a-hiddenpanel",
+			"2": "controlling-the-maincontent-area",
+			"3": "adding-your-logo",
+			"4": "module-classes"
+		},
+	"extensions": 
+		{
+			"1":"zentools",
+			"2": "jbmaps2",
+			"3": "zenshortcodes",
+			"4": "zenmenu",
+			"5": "zensocial"
+		}	
+}
