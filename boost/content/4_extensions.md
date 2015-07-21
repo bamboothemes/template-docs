@@ -3,7 +3,7 @@ Extensions used on the demo site.
 
 The following extensions are featured on the boost demo site.
 
-Zentools
+Zentools2
 ----
 
 Used to create slideshows, grids, carousels etc.
