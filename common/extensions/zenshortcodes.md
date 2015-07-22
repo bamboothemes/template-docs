@@ -1,8 +1,9 @@
 Zenshortcodes
 ----
 
-Plugin that adds mega menu functionality to your ZGF4 menu.
+A plugin that is used to render font icons and other styling on the page via simple syntax.
 - <a href="http://joomlabamboo.com/index.php?option=com_docman&task=doc_download&gid=695&Itemid=">Download</a>
+- - <a href="http://docs.joomlabamboo.com/zen-grid-framework-4/theme/Using-shortcodes.html">Documentation</a>
 
 *Overview:*
 
