@@ -1,15 +1,15 @@
 Extensions used on the demo site.
 ====
 
-The following extensions are featured on the venture demo site.
+The following extensions are featured on the gazetta demo site.
 
 Zentools
 ----
 
 Used to create slideshows, grids, carousels etc.
-- <a href="http://zentools.joomlabamboo.com">Demo</a>
-- <a href="http://zentools.joomlabamboo.com">Documentation</a>
-- <a href="http://www.joomlabamboo.com/downloads/zentools-downloads">Download</a>
+- <a href="http://zentools2.joomlabamboo.com">Demo</a>
+- <a href="http://zentools2.joomlabamboo.com">Documentation</a>
+- <a href="http://www.joomlabamboo.com/downloads/template-downloads?param=zentools2">Download</a>
 
 Jb Maps2
 ----
@@ -38,10 +38,4 @@ Zenmenu
 Plugin that adds mega menu functionality to your ZGF4 menu.
 - <a href="http://joomlabamboo.com/index.php?option=com_docman&task=doc_download&gid=694&Itemid=">Download</a>
 
-
-Skillset
-----
-
-Used to create animated graphs and displays for manually entered data.
-- <a href="http://joomlabamboo.com/index.php?option=com_docman&task=doc_download&gid=678&Itemid=">Download</a>
 

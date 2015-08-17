@@ -1,0 +1,24 @@
+{	
+	"theme":"gazetta",
+	"date":"aug15",
+	"description":"Build a multi-purpose news or magazine site with Gazetta. Gazetta is a bold and flat design that features ample white space and lage typographical features providing a versatile scaffold for showcasing your important news.",
+	"info":"Here is something a bit longer",
+	"framework":"zen-grid-framework-v4",
+	"requirements":"Joomla 3+",
+	"forum":"http://www.joomlabamboo.com/index.php?option=com_kunena&view=category&catid=678&Itemid=215",
+	"other": 
+		{
+			"1": "adding-a-hiddenpanel",
+			"2": "controlling-the-maincontent-area",
+			"3": "adding-your-logo",
+			"4": "module-classes"
+		},
+	"extensions": 
+		{
+			"1":"zentools2",
+			"2": "jbmaps2",
+			"3": "zenshortcodes",
+			"4": "zenmenu",
+			"5": "zensocial"
+		}	
+}
